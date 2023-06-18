@@ -1,14 +1,14 @@
 
 # References #
 
-I faced some issues while adding the bibliography sections. THough I 've tried to provide the appropraite notations to keep up the flow.
+I faced some issues while adding the bibliography sections. Though I've tried to provide the appropraite notations to keep up the flow.
 
 
 
  1) The Story of How Scientists Discovered the Black Hole at the Milky Way’s Centre
 2) Meech, K. J., “Early Solar System Leftovers: Testing Solar System Formation Models”, vol 47 , 2015.
 3) Raychaudhuri AK, ”Relativistic Cosmology I”, Phys. Rev. 98, 1123, 1955 and J. M. M. Senovilla and D. Garfinkle, “The 1965 Penrose singularity theorem,” Class. Quant. Grav. 32, no.12, 124008 (2015)
-4) http://brane-space.blogspot.com/2020/10/kudos-to-roger-penrose-for-his nobel.
+4) [Kudos to Roger Penrose for Nobel](http://brane-space.blogspot.com/2020/10/kudos-to-roger-penrose-for-his)
 5) Sudipta Sarkar,“ Black hole and Singularity Theorem”, Physics News, De cember 2020.
 6) Penrose R, ”Gravitational collapse and space-time singularities”, Phys. Rev. Lett. 14, 57,1965
 7) General Relativity by R. M. Wald (University of Chicago Press, 1984).
