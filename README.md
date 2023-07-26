@@ -2,7 +2,7 @@
 
 The presence of Black Holes was predicted by Albert Einstein through his groundbreaking theory of General Relativity in 1915[1]. Black Holes 
 are the regions in space where gravity is extraordinarily strong where nothing, not even light can escape. 
-The \textbf{Event Horizon/Schwarzschild Radius} represents the boundary beyond which nothing, including light, can escape the gravitational pull of a black hole.
+The **Event Horizon/Schwarzschild Radius** represents the boundary beyond which nothing, including light, can escape the gravitational pull of a black hole.
 
 According to the theory of general relativity, the Schwarzschild radius is the radius of a non-rotating black hole that has a mass M. It is defined by the equation:
 
